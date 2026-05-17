@@ -1,8 +1,9 @@
 # JBB-HarmLevel: A Harm-Level Dataset for Evaluating LLM Vulnerabilities
 
 <p align="center">
+  <a href="https://ieeexplore.ieee.org/document/11462247"><img src="https://img.shields.io/badge/IEEE-paper-00629B.svg" alt="Paper"></a>
   <a href="https://github.com/VodkaVortex/JBB-harmlevel"><img src="https://img.shields.io/badge/dataset-JBB--HarmLevel-blue.svg" alt="Dataset"></a>
-  <img src="https://ieeexplore.ieee.org/document/11462247" alt="ICASSP 2025">
+  <img src="https://img.shields.io/badge/ICASSP-2025-green.svg" alt="ICASSP 2025">
 </p>
 
 
